@@ -6,6 +6,7 @@
 ## 2. cacheSolve
 
 ## Usage examples:
+# 0. i <- 1:3
 # 1. matr <- 1 / outer(i - 1, i, "+")
 # 2. result <- makeCacheMatrix(matr)
 # 3. > result$get()
